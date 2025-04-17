@@ -50,7 +50,7 @@ Google Docs clone with real-time collaboration, formatting, and workspaces.
 
 ---
 
-### [🧠 Formify AI](https://github.com/rajalsrivastava/formify)  
+### [🧠 Formify AI](https://github.com/rajalsrivastava/formify.ai)  
 AI-powered dynamic form generator with Razorpay integration.  
 **Tech:** Next.js 15, Prisma, Clerk, Gemini AI, Razorpay, PostgreSQL, Zod, TypeScript
 🔗 [Live Demo](https://formify-rajal.vercel.app/)
