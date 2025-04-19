@@ -1,6 +1,6 @@
 # 🧑‍💻 Rajal Srivastava
 
-**Full Stack Developer | JavaScript Enthusiast | AI SaaS Builder**  
+**Full Stack Developer | JavaScript Enthusiast | JAVA Developer | AI SaaS Builder**  
 Hey there! I'm Rajal, a passionate full stack developer who loves building real-world applications using modern web technologies. From AI-powered tools to collaborative editors, I turn ideas into impactful products.
 
 - 🔭 Currently building: Full stack projects with Next.js with AI integration
