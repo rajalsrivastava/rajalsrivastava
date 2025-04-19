@@ -38,7 +38,7 @@ AI SaaS that transforms PDFs into emoji-rich summaries.
 
 ### [🎙️ Prepify](https://github.com/rajalsrivastava/prepify)  
 Voice-based AI interview simulator with real-time feedback.  
-**Tech:** Vapi, Firebase, Gemini, Tailwind CSS  
+**Tech:** Next.js 15, Vapi, Firebase, Gemini, Tailwind CSS , Typescript 
 🔗 [Live Demo](https://prepify-ai.vercel.app/)
 
 ---
