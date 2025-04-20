@@ -64,6 +64,12 @@ AI-powered dynamic form generator with Razorpay integration.
 
 ---
 
+## 🧑‍💻 Leetcode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajalsrivastava?theme=dark&font=Source%20Code%20Pro&ext=contest)
+
+---
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/rajalsrivastava)
