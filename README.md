@@ -6,7 +6,7 @@ Hey there! I'm Rajal, a passionate full stack developer who loves building real-
 - 🔭 Currently building: Full stack projects with Next.js with AI integration
 - 🌱 Learning: React Hooks, DevOps, and system design
 - 💡 Fun Fact: I’m also a singer, rider, and a cricket lover!
-- 📫 Reach me at: `rajal10srivastava@gmail.com`
+- 📫 Reach me at: ✉️`rajal10srivastava@gmail.com` 📞`+91 8853058911`
 
 ---
 
