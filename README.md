@@ -1,77 +1,89 @@
-# 🧑‍💻 Rajal Srivastava
+# 👨‍💻 Rajal Srivastava
 
-**Full Stack Developer | JavaScript Enthusiast | JAVA Developer | AI SaaS Builder**  
-Hey there! I'm Rajal, a passionate full stack developer who loves building real-world applications using modern web technologies. From AI-powered tools to collaborative editors, I turn ideas into impactful products.
+**Full Stack Developer | JavaScript Fanatic | Java Enthusiast | AI SaaS Creator**
 
-- 🔭 Currently building: Full stack projects with Next.js with AI integration
-- 🌱 Learning: React Hooks, DevOps, and system design
-- 💡 Fun Fact: I’m also a singer, rider, and a cricket lover!
-- 📫 Reach me at: ✉️`rajal10srivastava@gmail.com` 📞`+91 8853058911`
+Hi there! I’m **Rajal**, a passionate full stack developer who thrives on building real-world products using cutting-edge tech. Whether it’s AI-powered tools, collaborative editors, or interview simulators, I love turning bold ideas into delightful user experiences.
+
+---
+
+## 🚧 Currently
+
+- 🔨 Building full stack apps with **Next.js** & **AI integration**
+- 📚 Learning **React Hooks**, **DevOps**, and **System Design**
+- 🎤 Also a singer, rider & cricket enthusiast!
+
+📬 **Reach me at:**  
+📧 `rajal10srivastava@gmail.com` | 📞 `+91 8853058911`
 
 ---
 
 ## 🚀 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 💼 Projects
+## 🌟 Featured Projects
 
-### [📝 Summarie](https://github.com/rajalsrivastava/summarie)  
-AI SaaS that transforms PDFs into emoji-rich summaries.  
+### 🔹 [Summarie](https://summarie.vercel.app/)
+> 🧠 **AI SaaS** that transforms PDFs into fun, emoji-rich summaries.  
 **Tech:** Next.js 15, Clerk, Gemini AI, Langchain, Stripe, NeonDB  
-🔗 [Live Demo](https://summarie.vercel.app/)
+🔗 [GitHub](https://github.com/rajalsrivastava/summarie)
 
 ---
 
-### [🎙️ Prepify](https://github.com/rajalsrivastava/prepify)  
-Voice-based AI interview simulator with real-time feedback.  
-**Tech:** Next.js 15, Vapi, Firebase, Gemini, Tailwind CSS , Typescript 
-🔗 [Live Demo](https://prepify-ai.vercel.app/)
+### 🔹 [Prepify](https://prepify-ai.vercel.app/)
+> 🎙️ **Voice-based interview simulator** with real-time feedback.  
+**Tech:** Next.js 15, Vapi, Firebase, Gemini, Tailwind CSS, TypeScript  
+🔗 [GitHub](https://github.com/rajalsrivastava/prepify)
 
 ---
 
-### [📄 Docify](https://github.com/rajalsrivastava/docify)  
-Google Docs clone with real-time collaboration, formatting, and workspaces.  
-**Tech:** Next.js 15, TipTap, Convex, Liveblocks, Clerk, Tailwind CSS, Typescript
-🔗 [Live Demo](https://docify-rajal.vercel.app/)
+### 🔹 [Docify](https://docify-rajal.vercel.app/)
+> 📄 Real-time collaborative **Google Docs clone** with formatting & workspaces.  
+**Tech:** Next.js 15, TipTap, Convex, Liveblocks, Clerk  
+🔗 [GitHub](https://github.com/rajalsrivastava/docify)
 
 ---
 
-### [🧠 Formify AI](https://github.com/rajalsrivastava/formify.ai)  
-AI-powered dynamic form generator with Razorpay integration.  
-**Tech:** Next.js 15, Prisma, Clerk, Gemini AI, Razorpay, PostgreSQL, Zod, TypeScript
-🔗 [Live Demo](https://formify-rajal.vercel.app/)
+### 🔹 [Formify AI](https://formify-rajal.vercel.app/)
+> 🧠 **Dynamic form generator** powered by AI with payment integration.  
+**Tech:** Next.js 15, Prisma, Clerk, Gemini AI, Razorpay, PostgreSQL, Zod  
+🔗 [GitHub](https://github.com/rajalsrivastava/formify.ai)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Rajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajalsrivastava&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajalsrivastava&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajalsrivastava&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajalsrivastava&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🧑‍💻 Leetcode Stats
+## 🧠 LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rajalsrivastava?theme=dark&font=Source%20Code%20Pro&ext=contest)
 
 ---
 
-## 📫 Let's Connect
+## 🔗 Let’s Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/rajalsrivastava)
-- 🧠 [Portfolio](https://rajal.dev)
-- 🐙 [GitHub](https://github.com/rajalsrivastava)
+- 👔 [LinkedIn](https://linkedin.com/in/rajalsrivastava)
+- 🌐 [Portfolio](https://rajal.dev)
+- 💻 [GitHub](https://github.com/rajalsrivastava)
+
+---
