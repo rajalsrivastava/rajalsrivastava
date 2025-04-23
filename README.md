@@ -76,7 +76,9 @@ Hi there! I’m **Rajal**, a passionate full stack developer who thrives on buil
 
 ## 🧠 LeetCode Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajalsrivastava?theme=dark&font=Source%20Code%20Pro&ext=contest)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rajalsrivastava?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="Rajal's LeetCode Stats" />
+</p>
 
 ---
 
