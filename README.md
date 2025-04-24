@@ -87,5 +87,5 @@ Hi there! I’m **Rajal**, a passionate full stack developer who thrives on buil
 - 👔 [LinkedIn](https://linkedin.com/in/rajalsrivastava)
 - 🌐 [Portfolio](https://rajal.dev)
 - 💻 [GitHub](https://github.com/rajalsrivastava)
-
+- 🕊️ [Twitter](https://x.com/RajalSrivastava)
 ---
