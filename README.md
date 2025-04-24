@@ -2,7 +2,7 @@
 
 **Full Stack Developer | JavaScript Fanatic | Java Enthusiast | AI SaaS Creator**
 
-Hi there! I’m **Rajal**, a passionate full stack developer who thrives on building real-world products using cutting-edge tech. Whether it’s AI-powered tools, collaborative editors, or interview simulators, I love turning bold ideas into delightful user experiences.
+Hi there! I’m **Rajal**, a passionate full stack developer who thrives on building real-world products using cutting-edge technology. Whether it’s AI-powered tools, collaborative editors, or interview simulators, I love turning bold ideas into delightful user experiences.
 
 ---
 
