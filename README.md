@@ -9,7 +9,7 @@ Hi there! I’m **Rajal**, a passionate full stack developer who thrives on buil
 ## 🚧 Currently
 
 - 🔨 Building full stack apps with **Next.js** & **AI integration**
-- 📚 Learning **React Hooks**, **DevOps**, and **System Design**
+- 📚 Learning **React Hooks**, **DevOps**, **System Design** and **GoLang**
 - 🎤 Also a singer, rider & cricket enthusiast!
 
 📬 **Reach me at:**  
