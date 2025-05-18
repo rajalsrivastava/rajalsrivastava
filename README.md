@@ -8,7 +8,7 @@ Hi there! I’m **Rajal**, a passionate full stack developer who thrives on buil
 
 ## 🚧 Currently
 
-- 🔨 Building Sumroad(a full stack multi-vendor E-Commerce Marketplace with **Next.js**, **React** & **Stripe Connect**
+- 🔨 Building Sumroad(a full stack multi-vendor E-Commerce Marketplace with **Next.js**, **React** & **Stripe Connect**)
 - 🔨 Building Yootoob(a full stack **Youtube** clone with **Next.js**, **React** & **tRPC**
 - 🔨 Building Lincs(a full stack **URL Shortener** with **Next.js**, **React**
 - 📚 Learning **Golang**, **Python**, **React Hooks**, **DevOps** and **System Design**
