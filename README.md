@@ -11,6 +11,7 @@ Hi there! I’m **Rajal**, a passionate full stack developer who thrives on buil
 - 🔨 Building **Sumroad** (a full stack multi-vendor E-Commerce Marketplace with **Next.js**, **React** & **Stripe Connect**)
 - 🔨 Building **Yootoob** (a full stack **Youtube** clone with **Next.js**, **React** & **tRPC**)
 - 🔨 Building **Lincs** (a full stack **URL Shortener** with **Next.js**, **React**)
+- 🔨 Building **TrueTrip** (a full stack **Travel Agency Dashboard** with **React Router V7**)
 - 📚 Learning **Golang**, **Python**, **React Hooks**, **DevOps** and **System Design**
 - 🎤 Also a singer, rider & cricket enthusiast!
 
