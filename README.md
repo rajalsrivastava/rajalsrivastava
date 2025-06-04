@@ -12,7 +12,7 @@ Hi there! I’m **Rajal**, a passionate full stack developer who thrives on buil
 - 🔨 Building **Yootoob** (a full stack **Youtube** clone with **Next.js**, **React** & **tRPC**)
 - 🔨 Building **TrueTrip** (a full stack **Travel Agency Dashboard** with **React Router V7**)
 - 📚 Learning **AI**, **Operating System**, **DBMS**, **Springboot**, **Golang**, **Python**, **React Hooks**, **DevOps** and **System Design**
-- 🎤 Also a Singer, 🚵‍♀️Rider & 🏏Cricketer!
+- 🎤 Also a Singer, 🎸Guitarist, 🚵‍♀️Rider & 🏏Cricketer!
 
 📬 **Reach me at:**  
 📧 `rajal10srivastava@gmail.com` | 📞 `+91 8853058911`
