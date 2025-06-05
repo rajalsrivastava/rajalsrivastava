@@ -1,6 +1,6 @@
 # 👨‍💻 Rajal Srivastava
 
-**Full Stack Developer | JavaScript Fanatic | Java Enthusiast | AI SaaS Creator**
+**Software Engineer | Full Stack Developer | JavaScript Fanatic | Java Enthusiast | AI SaaS Creator**
 
 Hi there! I’m **Rajal**, a passionate full stack developer who thrives on building real-world products using cutting-edge technology. Whether it’s AI-powered tools, collaborative editors, enterprise applications or interview simulators, I love turning bold ideas into delightful user experiences.
 
